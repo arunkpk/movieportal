@@ -8,7 +8,7 @@ export class movieList extends Component {
     console.log(invoices);
     return (
       <div>
-        <h3>asdasd</h3>
+        <h3>asdassd</h3>
        
           {
             Object.entries(invoices).map(([key, val]) => 
